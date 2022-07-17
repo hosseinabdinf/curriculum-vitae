@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1657461713 "hosseinabdi.xdv" "hosseinabdi.pdf" "hosseinabdi" 1657461715
-  "hosseinabdi.xdv" 1657461712 92724 19c635addae30ca2f201a498d3765442 "xelatex"
+["xdvipdfmx"] 1658065216 "hosseinabdi_cv.xdv" "hosseinabdi_cv.pdf" "hosseinabdi_cv" 1658065218
+  "hosseinabdi_cv.xdv" 1658065215 97336 c4407a5b3bd3f507a678104a919a3804 "xelatex"
   (generated)
-  "hosseinabdi.pdf"
-["xelatex"] 1657461706 "x:/Document/curriculum-vitae/hosseinabdi.tex" "hosseinabdi.xdv" "hosseinabdi" 1657461715
+  "hosseinabdi_cv.pdf"
+["xelatex"] 1658065207 "x:/Document/curriculum-vitae/hosseinabdi_cv.tex" "hosseinabdi_cv.xdv" "hosseinabdi_cv" 1658065218
   "C:/Users/Hossein/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1652452495 23672252 87fc2c2a39b509b0afc7544768fdcd6a ""
   "C:/Users/Hossein/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136804654 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/Hossein/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -161,24 +161,25 @@
   "C:/Users/Hossein/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448278036 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Users/Hossein/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623005690 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "awesome-cv.cls" 1655395585 26826 267ff6af16bbf9bc737d958da998ccb2 ""
-  "cv/education.tex" 1652469741 1672 e4b3eb83e708b7de95805b469dd38f16 ""
+  "cv/education.tex" 1658063753 1672 e4b3eb83e708b7de95805b469dd38f16 ""
   "cv/extracurricular.tex" 1657461235 1849 99aefde414e0f2f30966c2ead1c5070d ""
   "cv/honors.tex" 1657455839 3347 ab2ae9181d335411fc407659a17d4c29 ""
   "cv/languages.tex" 1657461507 647 08c4d28e22b9a18100ecaf2e6fc88d35 ""
   "cv/memberships.tex" 1657460297 720 19934890ddbdc1edf337f31a08f7b14b ""
   "cv/publications.tex" 1636106139 851 1dee3ed12d25d2171bd8daedc7444eff ""
+  "cv/references.tex" 1658065206 1095 4c79f8a992339139cf4bbf25e6ad92b1 ""
   "cv/research.tex" 1657384463 1022 f4f35e704aa4c88e070a208b692a0d3a ""
   "cv/resinterests.tex" 1657459933 351 660b0866d9187d68f453769535150172 ""
   "cv/skills.tex" 1657386846 1390 752830395c78d31bb382a59fefd2eb7c ""
   "cv/teaching.tex" 1655619624 2314 e0adc84003993da7243d813e72f42f14 ""
   "cv/work.tex" 1657461007 1734 4187c1948389493da16dc0a5d8614178 ""
   "fontawesome.sty" 1562597551 98046 7347fb084abf1308033c4d26f24f7a42 ""
-  "hosseinabdi.aux" 1657461712 652 9af601cce4e905234811cb740f97ee79 "xelatex"
-  "hosseinabdi.out" 0 -1 0 "xelatex"
-  "hosseinabdi.tex" 1657461704 3767 2a16c0a6076d200400c2fd14b263a3cf ""
-  "x:/Document/curriculum-vitae/hosseinabdi.tex" 1657461704 3767 2a16c0a6076d200400c2fd14b263a3cf ""
+  "hosseinabdi_cv.aux" 1658065215 652 9af601cce4e905234811cb740f97ee79 "xelatex"
+  "hosseinabdi_cv.out" 0 -1 0 "xelatex"
+  "hosseinabdi_cv.tex" 1658065189 3765 e83c3e0530b0b0c227c64d1834510924 ""
+  "x:/Document/curriculum-vitae/hosseinabdi_cv.tex" 1658065189 3765 e83c3e0530b0b0c227c64d1834510924 ""
   (generated)
-  "hosseinabdi.aux"
-  "hosseinabdi.log"
-  "hosseinabdi.out"
-  "hosseinabdi.xdv"
+  "hosseinabdi_cv.aux"
+  "hosseinabdi_cv.log"
+  "hosseinabdi_cv.out"
+  "hosseinabdi_cv.xdv"
